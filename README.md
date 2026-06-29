@@ -61,4 +61,4 @@ WhatsApp — популярная площадка для личного и гр
 
 Вся информация публикуется в текущем виде и служит исключительно для повышения цифровой грамотности и понимания рисков приватности.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
